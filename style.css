@@ -3,7 +3,7 @@ body {
   background-color: #0e1a1f;    /*Teeman tumma tausta kehyksen sisällä */
   color: white;
   border: 30px solid transparent;
-  border-image: url("images/taustakuva.jpg") 100 round;   /*Kehys kuvalla */
+  border-image: url("Images/taustakuva.jpg") 100 round;   /*Kehys kuvalla */
 }
 
 header {
@@ -112,3 +112,4 @@ footer {
     gap: 1rem;               /* väli linkkien väliin */
   }
 }
+
