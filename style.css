@@ -113,3 +113,24 @@ footer {
   }
 }
 
+@media (min-width: 1200px) {
+  body {
+    font-size: 1.2rem;
+  }
+
+p, li, span, a {
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+}
+
+  h3 {
+font-size: 1.8rem;
+  }
+}
